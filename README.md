@@ -53,7 +53,7 @@ This is a comprehensive School Management System designed to manage the various 
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://KevTheTech/SchoolManagementSystem.git
+   git clone https://github.com/KevTheTech/SchoolManagementSystem.git
 
    ```
    
